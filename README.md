@@ -1,4 +1,5 @@
-# Dataset for paper entitled Rapid generation method for the dataset of stacked construction solid waste
+# Dataset for paper entitled:
+# Rapid generation method for the dataset of stacked construction solid waste
 
 **Dataset-of-stacked-construction-solid-waste
 
