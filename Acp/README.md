@@ -1,1 +1,2 @@
-This is the Acp dataset, which is rapid generated C&D waste dataset.
+This is the samples of Acp C&D waste dataset.
+Source dataset:
