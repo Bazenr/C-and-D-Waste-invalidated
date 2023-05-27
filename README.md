@@ -5,5 +5,7 @@
 
 Stacked C&amp;D waste dataset
 The dataset contain 4 types of construction solid waste: concrete, brick, wood and rubber.
-Each document countains 25 sample images and label files, and the source data is available at:
+Each document countains 25 sample images and label files.
+
+Dataset download:
   https://www.kaggle.com/datasets/bazenr/stacked-construction-solid-waste
